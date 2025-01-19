@@ -42,6 +42,21 @@ To learn more about developing your project with Expo, look at the following res
 - [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
 - [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
 
+
+
+
+
+![Image](https://github.com/user-attachments/assets/d770febd-d103-4bad-86c8-c4ce38038f59)
+![Image](https://github.com/user-attachments/assets/742b3790-8fae-48d6-8a6e-370d6e82709e)
+![Image](https://github.com/user-attachments/assets/7d707a8d-fa1c-4a30-948d-5e4471f8efac)
+![Image](https://github.com/user-attachments/assets/f11585fd-fa4a-49af-a2b3-145e3fa582d1)
+![Image](https://github.com/user-attachments/assets/beedeeb8-4b86-40aa-b06c-49b52f3dc292)
+![Image](https://github.com/user-attachments/assets/515c0d4d-3c92-489a-b844-658c60ae25bb)
+![Image](https://github.com/user-attachments/assets/fd7de5e5-3978-4755-81aa-a3eb74b1396f)
+![Image](https://github.com/user-attachments/assets/10bcaf97-1f32-4227-b147-82b16544bacd)
+![Image](https://github.com/user-attachments/assets/ec81fa3a-7eeb-4212-9668-487b8e1b46a1)
+![Image](https://github.com/user-attachments/assets/696e79e1-0176-4144-a718-7a34480bb3ab)
+
 ## Join the community
 
 Join our community of developers creating universal apps.
